@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## OUTPUT:
-![Screenshot 2024-04-29 141802](https://github.com/Dhanush0143/Figma/assets/139841924/5d72f513-83e8-4c6b-a0c1-fa7a433b742c)
+![image](https://github.com/Yugendaran/Figma/assets/128135616/da5a9d28-5bee-43f1-a4a7-bdaf4342a694)
 
 
 ## RESULT:
